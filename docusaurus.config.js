@@ -11,7 +11,7 @@ const { themes } = require("prism-react-renderer");
 const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
 
-const baseUrl = "voices-against-drugs";
+const baseUrl = "/";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -20,15 +20,15 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://voices-bridges.github.io/",
+  url: "https://rdlaca.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "Voice-And-Bridges", // Usually your GitHub org/user name.
-  projectName: "voices-against-drugs", // Usually your repo name.
+  organizationName: "Responsible Drug Learning Association", // Usually your GitHub org/user name.
+  projectName: "Responsible Drug Learning Association", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
