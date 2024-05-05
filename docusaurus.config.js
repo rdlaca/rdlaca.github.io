@@ -129,7 +129,7 @@ const config = {
       },
       footer: {
         style: "dark",
-        copyright: `Copyright © ${new Date().getFullYear()} Voices And Bridges, built with <a href="https://docusaurus.io/">Docusaurus</a>`,
+        copyright: `Copyright © ${new Date().getFullYear()} Responsible Drug Learning Association, built with <a href="https://docusaurus.io/">Docusaurus</a>`,
       },
       prism: {
         theme: lightCodeTheme,
