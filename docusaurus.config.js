@@ -103,9 +103,9 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: "Voices Against Drugs",
+        title: "Responsible Drug Learning Association",
         logo: {
-          alt: "Voices Against Drugs",
+          alt: "Responsible Drug Learning Association",
           src: "img/logo.webp",
         },
         items: [
